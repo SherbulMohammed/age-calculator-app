@@ -1,1 +1,1 @@
-Creating an Age Calculator App using HTML, CSS and JavaScript
+ Age Calculator App using HTML, CSS and JavaScript
